@@ -2,7 +2,7 @@
   "name": "node_mongo_db",
   "version": "1.0.0",
   "description": "NodeJS & Mongo DB Express",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,6 +19,7 @@
   "dependencies": {
     "bcrypt": "^5.0.0",
     "express": "^4.17.1",
+    "mongoose": "^5.10.9",
     "mongose": "0.0.2-security"
   }
 }
