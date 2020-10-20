@@ -21,5 +21,8 @@
     "express": "^4.17.1",
     "mongoose": "^5.10.9",
     "mongose": "0.0.2-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
   }
 }
